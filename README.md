@@ -8,7 +8,7 @@ Liz é uma assistente virtual que utiliza inteligência artificial para oferecer
 - Suporte Emocional
 - Respeito à Privacidade
 
-- Diferenciais:
+### Diferenciais:
 
 - Abordagem Humanizada
 - Foco no Bem-Estar Emocional
